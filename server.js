@@ -31,11 +31,9 @@ const colorPallet = {
 app.get('/icon/:identifier', (req, res) => {
     const hash = createHash(req.params.identifier).match(/.{1,8}/g);
     const colors = selectColors(hash[1], hash[2], hash[3]);
-    console.log(colors);
 
     let icon = getIcon((parseInt(hash[0], 16) % 4) + 1);
     icon = icon.replace('{{color1}}', colors[0]).replace('{{color2}}', colors[1]).replace('{{color3}}', colors[2]);
-    console.log(icon);
 
     res.setHeader('Content-Type', 'image/svg+xml');
     res.send(Buffer.from(icon));
