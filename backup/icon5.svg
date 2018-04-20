@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="142px" viewBox="0 0 142 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-User-NoImage5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="71" cy="71" r="71"></circle>
+        <linearGradient x1="30.5735869%" y1="41.5471311%" x2="32.5956457%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#C53CEC" offset="0%"></stop>
+            <stop stop-color="#687ECF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-User-NoImage5" transform="translate(71.000000, 71.000000) scale(-1, 1) translate(-71.000000, -71.000000) ">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="{{color1}}" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+            <g id="Group-19" mask="url(#mask-2)">
+                <g transform="translate(-123.000000, 31.000000)">
+                    <path d="M226.160156,0.2734375 C271.49349,0.2734375 316.826823,81.6067708 362.160156,244.273438 L90.1601562,244.273438 C135.49349,81.6067708 180.826823,0.2734375 226.160156,0.2734375 Z" id="Triangle-2-Copy" fill="{{color2}}"></path>
+                    <path d="M136,0 C181.333333,0 226.666667,81.3333333 272,244 L0,244 C45.3333333,81.3333333 90.6666667,4.98023032e-15 136,0 Z" id="Triangle-2" fill="{{color3}}" style="mix-blend-mode: color-burn;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

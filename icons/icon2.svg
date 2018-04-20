@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="142px" height="142px" viewBox="0 0 142 142" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon-User-NoImage2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="71" cy="71" r="71"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-User-NoImage2">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="{{color1}}" style="mix-blend-mode: multiply;" xlink:href="#path-1"></use>
+            <g id="Group-19" mask="url(#mask-2)">
+                <g transform="translate(-138.000000, -95.000000)">
+                    <path d="M285,0 C330.333333,0 375.666667,81.3333333 421,244 L149,244 C194.333333,81.3333333 239.666667,4.98023032e-15 285,0 Z" id="Triangle-2-Copy" fill="{{color2}}"></path>
+                    <path d="M136,130 C181.333333,130 226.666667,211.333333 272,374 L0,374 C45.3333333,211.333333 90.6666667,130 136,130 Z" id="Triangle-2" fill="{{color3}}" style="mix-blend-mode: multiply;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
